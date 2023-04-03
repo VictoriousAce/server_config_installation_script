@@ -1,6 +1,6 @@
 #!/bin/bash
-dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
-repobranch="master"
+dotfilesrepo="https://github.com/victoriousace/server_config.git"
+repobranch="main"
 export name="$(whoami)"
 
 putgitrepo() {
